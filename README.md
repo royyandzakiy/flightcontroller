@@ -1,6 +1,6 @@
-# STM32 Flight Controller
+# Flight Controller
 
-A professional-grade flight controller for drones based on STM32F103, featuring sensor integration, low-latency communication, and real-time control systems. Built with PlatformIO for robust and efficient UAV operations.
+A professional-grade flight controller for drones based on STM32F103 or ESP32, featuring sensor integration, low-latency communication, and real-time control systems. Built with PlatformIO for robust and efficient UAV operations.
 
 ## Features
 
